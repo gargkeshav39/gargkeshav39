@@ -8,7 +8,7 @@
 <br/>
 
 - 🌱 I'm currently programming in **C++ and Java.**
-- 👨‍💻 My most recent project is available at <a target="_blank" href="https://garggargkeshav39.pythonanywhere.com">File Upload & Share</a>
+- 👨‍💻 My most recent project is available at <a target="_blank" href="https://gargkeshav39.pythonanywhere.com">File Upload & Share</a>
 
 - 👨‍💻 My previous project is available at <a target="_blank" href="https://keshavgargwebd.000webhostapp.com/Major-Project/">Super Market E-Commerce</a>
 
@@ -51,11 +51,11 @@
 </p>
 <br/>
 
-![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=garggargkeshav39&show_icons=true&theme=dracula&hide=stars)
+![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=gargkeshav39&show_icons=true&theme=dracula&hide=stars)
 
 <h2 align="center">Show some ❤️ by starring my repositories!</h2>
 
-[![An image of @gargkeshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/gargkeshav39)](https://holopin.io/@gargkeshav39)
+[![An image of @keshav39's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/keshav39)](https://holopin.io/@keshav39)
 
 <p align="center" width="100%">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/>
